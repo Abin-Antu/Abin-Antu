@@ -1,5 +1,13 @@
 # 💫 About Me:
-<br>Hi,👋 I’m @Abin-Antu : )<br><br>I’m interested in software development 🥳<br><br>I am a self-taught developer who loves to solve problems digitally with top notch technologies. I am specialised in web technologies, curious to learn more about developing cyber security solutions ,web development, and cares about writing readable as well as maintainable code.
+<br>Hi,👋 I’m @Abin-Antu : )<br><br>## About Me
+
+- Self-taught developer  
+- Focus: Web technologies and backend systems  
+- Specialize in:  
+  - Scalable and distributed backend development  
+  - Clean, maintainable code  
+  - Cybersecurity fundamentals  
+- Passionate about solving real-world problems with modern technologies
 
 
 ## 🌐 Socials:
