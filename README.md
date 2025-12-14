@@ -20,6 +20,7 @@
 
 
 ---
+[![GitHub Streak](https://streak-stats.demolab.com?user=Abin-Antu&theme=dark)](https://git.io/streak-stats)
 [![](https://visitcount.itsvg.in/api?id=Abin-Antu&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
