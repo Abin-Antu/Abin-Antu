@@ -12,7 +12,6 @@
   <a href="https://github.com/Abin-Antu" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Abin--Antu-161B22?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Engineering-No%20Fluff-00D4FF?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 
@@ -27,6 +26,7 @@ Self-taught developer focused on **backend systems** and **web technologies**.
 - Building scalable, distributed backend systems
 - Exploring cybersecurity — from fundamentals to applied
 - Languages of choice: **Go** and **C** for systems, **Python** and **JS** when needed
+- No-fluff engineering
 
 ---
 
