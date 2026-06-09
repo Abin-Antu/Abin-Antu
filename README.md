@@ -43,6 +43,6 @@ Self-taught developer focused on **backend systems** and **web technologies**.
 
 ---
 
-## 📊 GitHub Stats
+
 
 
