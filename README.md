@@ -12,7 +12,9 @@
   <a href="https://github.com/Abin-Antu" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Abin--Antu-161B22?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <img src="https://img.shields.io/badge/Engineering-No%20Fluff-00D4FF?style=for-the-badge&logo=git&logoColor=white" />
 </p>
+
 
 </div>
 
