@@ -45,16 +45,4 @@ Self-taught developer focused on **backend systems** and **web technologies**.
 
 ## 📊 GitHub Stats
 
-<div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abin-Antu&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&title_color=00D4FF&icon_color=00D4FF)
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Abin-Antu&theme=tokyonight&hide_border=true&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abin-Antu&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=00D4FF)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abin-Antu&theme=react-dark&hide_border=true&area=true)
-
-[![](https://visitcount.itsvg.in/api?id=Abin-Antu&icon=0&color=6)](https://visitcount.itsvg.in)
-
-</div>
